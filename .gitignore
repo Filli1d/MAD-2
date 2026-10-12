@@ -1,0 +1,18 @@
+# Geheimnisse - niemals hochladen
+conf/
+.env
+*.env
+api_key*
+*api_key*
+*apikey*
+*secret*
+*token*
+*.key
+
+# Daten vom Professor - nicht veroeffentlichen
+data/
+
+# Python-Umgebung und Zwischendateien
+.venv/
+__pycache__/
+.ipynb_checkpoints/
